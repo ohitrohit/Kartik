@@ -16,9 +16,9 @@ public class CollectionFrameWorkPractice3 {
 		System.out.println("----------------");
 		
 		courses.forEach((key,value)->{
-			System.out.println(key);
-			System.out.println("=>");
-			System.out.println(value);
+			System.out.print(key);
+			System.out.print("=>");
+			System.out.print(value);
 			System.out.println();
 		});
 		System.out.println("-------------------------");

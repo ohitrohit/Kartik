@@ -3,7 +3,7 @@ package javaconceptpractice;
 abstract class Lovely{
 	abstract void run();
 }
-class Lovely2 extends Program1{
+class Lovely2 extends Lovely{
 	void run() {
 		System.out.println("abstract inheritance");
 	}

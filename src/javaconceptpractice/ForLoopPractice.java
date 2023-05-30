@@ -7,6 +7,7 @@ public class ForLoopPractice {
 		int b= 20;
 		for(int c=a; c>1; c--) {
 			b=b*c;
+			System.out.println(b);
 		}
 		System.out.println(b);
 	}

@@ -9,7 +9,7 @@ public class ConstructerPrcatice {
 		ConstructerPrcatice(){
 		
 			amount = 20000;
-			mobile =" nokia";
+			mobile ="nokia";
 			
 		}
 		public static void main(String[] args) {
